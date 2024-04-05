@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "496427844539",
+    "firebase_url": "https://mastering-fire-base-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mastering-fire-base",
+    "storage_bucket": "mastering-fire-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496427844539:android:90df4ab240a53c2a77fa9e",
+        "android_client_info": {
+          "package_name": "com.ducku.blooddonorfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcjVCq6dujW2gO2HtWXTteJhEhVsWcfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496427844539:android:5aa302dad75ac5e877fa9e",
+        "android_client_info": {
+          "package_name": "com.ducku.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcjVCq6dujW2gO2HtWXTteJhEhVsWcfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496427844539:android:7b04da08f4e0d80477fa9e",
+        "android_client_info": {
+          "package_name": "com.ducku.masteringfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcjVCq6dujW2gO2HtWXTteJhEhVsWcfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
